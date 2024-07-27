@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Namrata Teshwer 
-- 👀 I’m interested in software development and a MERN stack developer.
+- 👀 I’m interested in software development and a MERN stack developer. Looking forward to learn more and grow.
 - 🌱 I’m currently learning C++ (Data Structures and algorithms)
 - 💞️ I’m looking to collaborate and to learn and develop amazing things
 - 📫 How to reach me at - Namrata-AMI , https://www.linkedin.com/in/namrata-teshwer-b17467285/ , namratateshwer@gmail.com
